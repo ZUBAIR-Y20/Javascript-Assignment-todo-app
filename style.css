@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color:rgb(222, 135, 215);
+  margin: 0;
+  padding: 0;
+  
+  height: 10vh;
+}
+.container{
+  display: flex;
+  align-items: end;
+  justify-content:center;
+  
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-left: 150px;
+}
+
+.container1{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-left: 150px;
+}
+
+.bg-red {
+  background-color: white;
+  margin-left: 150px;
+}
+.bg-purple {
+  background-color:white;
+  margin-left: 40px;
+}
+.addTodo{
+  margin-left: 150px;
+  bottom: 150px;; 
+} 
+.save{
+  margin-left: 150px;
+  bottom: 150px;;
+} 
+
+
+.todoInput{
+  margin-top: auto;
+}
